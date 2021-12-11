@@ -1,11 +1,9 @@
 <div class="container text-center my-5 py-5">
     <h2 class="libertad-bold">REFERENCIAS</h2> 
     <div class="color-be-grey fs-5 textzoom">
-        <p class="textzoom">Centro Nacional de Control de Energia │ Gobierno │ </p>
-        <p>gob.mx (www.gob.mx)</p>
-        <p>Sistema de Información de Mercado (SIM) │ Centro Nacional de Control de Energia │ Gobierno │ </p>
-        <p>gob.mx (www.gob.mx)</p>
-        <p>Comisión reguladora de Energía │ Gobierno │ </p>
-        <p>gob.mx (www.gob.mx)</p>
+        {% for elemento in {{site.data.referencias.lista}} %}
+            <p> {{ elemento }} </p>
+
+        {% endfor %}
     </div>
 </div>
