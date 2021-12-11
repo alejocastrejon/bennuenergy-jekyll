@@ -12,6 +12,10 @@ body{
 .color-be-grey{
   color: #777777;
 }
+.social-icons a {
+  text-decoration: none;
+  background-color: transparent;
+}
   /* SETTING THE FONTS FOR THE WEB */
 @font-face {
   font-family: 'Libertad-Medium';
