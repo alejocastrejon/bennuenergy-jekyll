@@ -1,0 +1,67 @@
+<footer>
+    <div class="formulario" id="contacto">
+        <h3 class="libertad-bold">CONTACTO</h3>
+        <form onsubmit="event.preventDefault(); submitForm();" >
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-6">
+                                <label for="nombre_fs" class="form-label">Nombre*</label>
+                                <input type="text" class="form-control input_text" name="nombre" id="nombre_fs"/>
+                            </div>
+                            <div class="col-sm-12 col-md-6">
+                                <label for="email_fs" class="form-label">Email*</label>
+                                <input type="email" class="form-control input_text" name="email" id="email_fs"/>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <label for="nombre_fs" class="form-label">Mensaje*</label>
+                                <textarea type="text" class="form-control input_text" name="mensaje" id="mensaje_fs"></textarea>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-3 mt-3">
+                                <div class="form-check">
+                                    <div id="gridCheck"></div>
+                                    <div id="g-recaptcha-error"></div>
+                                    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
+                                        async defer>
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-3 mt-3">
+                                <input type="submit" value="Enviar" class="boton_enviar">
+                            </div>
+                        </div>
+                </div>
+                <div class="col-sm-12 col-md-6 mt-3">
+                    <div class="row">
+                        <div class="col-6 px-5">
+                            <p class="py-2">
+                                <a href="#openModal" class="sin-sub"> POLÍTICAS DE PRIVACIDAD </a>
+                            </p>
+                            <p class="py-2">
+                                <a href="#openModal1" class="sin-sub">TÉRMINOS Y CONDICIONES</a>
+                            </p>
+                            <p class="py-2">
+                                <a href="#openModal2" class="sin-sub">PREGUNTAS FRECUENTES</a>
+                            </p>
+                        </div>
+                        <div class="col-6">
+                            <div class="mt-5 pt-5">
+
+                                <a href="#"><img src="img\go-top.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="pie_pagina libertad-bold">
+        <p>BENNU® 2021│Todos los derechos reservados </p>
+    </div>
+</footer>
