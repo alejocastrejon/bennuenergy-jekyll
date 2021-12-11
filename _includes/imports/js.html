@@ -12,7 +12,7 @@
         var onloadCallback = function() {
             grecaptcha.render('gridCheck', {
                 // 'sitekey' : '6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI',// developer mode
-                'sitekey' : '6Lehrf0cAAAAAAn86Kuw1_35m_JA5fSRiy3Bt4wB',//production mode
+                'sitekey' : '{{site.data.config.GRECAPTCHA_SITEKEY}}',//production mode
                 'callback' : verifyCallback
             });
         };
