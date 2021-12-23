@@ -24,7 +24,7 @@ let dataCaptcha = ""
         
       }
       let origin = 'https://mariachilabsmx.github.io';
-      let uri = 'http://mariachilabs.mx/bennuenergy/mailer/mailer.php';
+      let uri = 'https://mariachilabs.mx/bennuenergy/mailer/mailer.php';
       fetch(uri, {
         method: 'POST', 
         headers: {
