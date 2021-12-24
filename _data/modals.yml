@@ -1,5 +1,56 @@
 terminos_condiciones: '<p>Terminos y condiciones</p>'
-preguntas_frecuentes: '<p>Preguntas frecuentes</p>'
+preguntas_frecuentes: '<h2>Preguntas frecuentes</h2>
+        <p>
+            Suministro Calificado de Energía Eléctrica en el Mercado Eléctrico Mayorista
+        </p>
+        <ol>
+            <li>
+                <cite> <b> ¿Por qué contratar con nosotros? </b> </cite>
+                <p>
+                    <ul>
+                        <li type="square">Menor precio sin complicaciones</li>
+                        <li type="square">Mínima inversión (sistemas de medición)</li>
+                        <li type="square">Disminución de huella de carbono por medio de energías limpias.</li>
+                        <li type="square">Practicidad</li>
+                        <li type="square">Seguridad</li>
+                    </ul>       
+                </p>
+            </li>
+            <li>
+                <cite> <b> ¿Y los apagones? </b> </cite>
+                <p>
+                    La mayor parte del trayecto de la electricidad solo la puede llevar a cabo CFE. Para
+                    algunos usuarios en media tensión se puede reducir el impacto o frecuencia con equipo
+                    especializado en sitio.
+                </p>
+            </li>
+            <li>
+                <cite> <b> ¿Y la calidad de la energía?</b> </cite>
+                <p>
+                    Seguimos dependiendo de la infraestructura de CFE Transmisión y CFE Distribución, la
+                    calidad de la energía será la misma. Está prohibido realizar adecuaciones a las redes de
+                    distribución o transmisión propiedad de CFE. Ellos tienen la obligación de proveer el
+                    servicio público de transmisión y distribución.
+                </p>
+            </li>
+            <li>
+                <cite> <b> ¿Y la 4T?</b> </cite>
+                <p>
+                    Todo sigue igual y seguirá. El ruido mediático se ha enfocado en los generadores
+                    renovables del esquema legado (anterior a la nueva Ley de la Industria Eléctrica). El
+                    Suministro Calificado no se ha visto afectado, salvo por períodos más largos derivados
+                    de falta de personal en CRE y CENACE.
+                </p>
+            </li>
+            <li>
+                <cite> <b> ¿Tengo que cumplir con el código de red?</b> </cite>
+                <p>
+                    Si, todas las cargas de alta y media tensión tienen que dar cumplimiento al código de
+                    red. En cargas de media tensión no ha sido impedimento para migrar al suministro
+                    calificado. Cargas de alta tensión muy probablemente sea requerido para migrar. 
+                </p>
+            </li>
+        </ol>'
 politicas_privacidad: '<h3><center>AVISO DE PRIVACIDAD DE SUMINISTRADORA BENNU, S.A.P.I. DE C.V.</center> </h3>
         <h4><center></centerZ>En lo sucesivo “BENNU”) </center></h4>
         <p><b>I. </b>En cumplimiento a la Ley Federal de Protección de Datos Personales en Posesión de Particulares, al Reglamento y Lineamientos correspondientes (en conjunto referidos como las “Disposiciones”), BENNU está consciente de que la seguridad de su información personal por el uso de nuestros servicios es importante. Tomamos muy en serio la protección de sus datos personales. Por lo tanto nos gustaría que usted supiera cuáles datos conservamos y cuáles eliminamos. Con este aviso de privacidad, nos gustaría informarle acerca de nuestras medidas de seguridad.</p>
