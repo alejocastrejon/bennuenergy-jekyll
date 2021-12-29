@@ -23,12 +23,14 @@ let dataCaptcha = ""
           }
         
       }
-
-      let uri = 'mailer/mailer.php';
+      let origin = 'https://mariachilabsmx.github.io';
+      let uri = 'https://mariachilabs.mx/bennuenergy/mailer/mailer.php';
       fetch(uri, {
         method: 'POST', 
         headers: {
           'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': origin,
+          'Access-Control-Allow-Credentials': 'true'
         },
         body: JSON.stringify(payload),
       })
