@@ -23,7 +23,7 @@ let dataCaptcha = ""
           }
         
       }
-      let origin = 'https://mariachilabsmx.github.io';
+      let origin = 'https://bennu.energy';
       let uri = 'https://mariachilabs.mx/bennuenergy/mailer/mailer.php';
       fetch(uri, {
         method: 'POST', 

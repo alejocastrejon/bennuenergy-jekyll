@@ -1,3 +1,6 @@
+html, body {
+  text-rendering: optimizeLegibility;
+}
 body{
   font-family:'Libertad-Book';
 }
