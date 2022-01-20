@@ -1,0 +1,17 @@
+---
+parrafo: "TEXTO FOO"
+lista:
+- pregunta: "pregunta1"
+  respuesta: "<p>1</p>
+  <p>1</p>
+  <p>1</p>"
+- pregunta: "pregunta2"
+  respuesta: "respuesta2"
+- pregunta: "pregunta3"
+  respuesta: "respuesta3"
+- pregunta: "pregunta1"
+  respuesta: "respuesta1"
+- pregunta: "pregunta2"
+  respuesta: "respuesta2"
+- pregunta: "pregunta3"
+  respuesta: "respuesta3"
