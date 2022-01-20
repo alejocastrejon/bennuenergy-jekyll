@@ -50,6 +50,20 @@ body{
   font-style: normal;
   src: url('../fonts/Libertad-Light.otf');
 }
+.pfp{
+  font-family: libertad-extrabold;
+  color: blue;
+  text-align: left; 
+}
+.pfr{
+  font-family: libertad-thin;
+  text-align: left; 
+}
+.pfe{
+  font-family: libertad-thin;
+  color: gray;
+  font-size: 1.7vw;
+}
 .libertad-medium{
 font-family:'Libertad-Medium';
 }

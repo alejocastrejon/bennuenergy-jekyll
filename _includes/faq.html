@@ -1,11 +1,11 @@
 <div class="container text-center my-5 py-5">
     <h2 class="libertad-bold">PREGUNTAS FRECUENTES</h2> 
-    <p>{{site.data.faq.parrafo}} </p>
+    <p class="pfe">{{site.data.faq.parrafo}} </p>
     <div class="row">
         {% for elemento in {{site.data.faq.lista}} %}
             <div class="col-6">
-                <h4>{{ elemento.pregunta }}</h4>
-                <p>{{ elemento.respuesta }}</p>
+                <p class="pfp">{{ elemento.pregunta }}<p>
+                <p class="pfr">{{ elemento.respuesta }}</p>
             </div>
         {% endfor %}        
     </div>
