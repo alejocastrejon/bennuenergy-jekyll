@@ -1,11 +1,11 @@
-<div class="container text-center my-5 py-5">
-    <h2 class="libertad-bold">PREGUNTAS FRECUENTES</h2> 
-    <p class="pfe">{{site.data.faq.parrafo}} </p>
-    <div class="row">
+<div class="container mb-5 pb-5">
+    <h2 class="libertad-bold text-center">PREGUNTAS FRECUENTES</h2> 
+    <p class="color-be-grey fs-4 text-center">{{site.data.faq.parrafo}} </p>
+    <div class="row px-3">
         {% for elemento in {{site.data.faq.lista}} %}
-            <div class="col-6">
-                <p class="pfp">{{ elemento.pregunta }}<p>
-                <p class="pfr">{{ elemento.respuesta }}</p>
+            <div class="col-sm-12 col-md-6">
+                <p class="libertad-extra-bold color-be-blue">{{ elemento.pregunta }}<p>
+                <p class="libertad-thin">{{ elemento.respuesta }}</p>
             </div>
         {% endfor %}        
     </div>
