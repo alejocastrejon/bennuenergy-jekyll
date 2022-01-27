@@ -389,7 +389,10 @@ h2 {
 .bsolid {
   margin: 0;
 }
-atd {
+.t-justify{
+  text-align: justify;
+}
+.atd {
   width: 50%;
 }
 .fsr {

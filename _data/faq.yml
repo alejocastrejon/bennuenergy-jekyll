@@ -3,19 +3,19 @@ parrafo: "Suministro Calificado de Energía Eléctrica en el Mercado Eléctrico 
 lista:
 - pregunta: "¿Por qué contratar con nosotros?"
   respuesta: '<ul>
-<li class="libertad-thin">Menor precio sin complicaciones.</li>
-<li class="libertad-thin">Mínima inversión (sistemas de medición).</li>
-<li class="libertad-thin">Disminución de huella de carbono por medio de energías limpias.</li>
-<li class="libertad-thin">Practicidad.</li>
-<li class="libertad-thin">Seguridad.</li>
+<li class="libertad-thin fs-4">Menor precio sin complicaciones.</li>
+<li class="libertad-thin fs-4">Mínima inversión (sistemas de medición).</li>
+<li class="libertad-thin fs-4">Disminución de huella de carbono por medio de energías limpias.</li>
+<li class="libertad-thin fs-4">Practicidad.</li>
+<li class="libertad-thin fs-4">Seguridad.</li>
 </ul>'
 - pregunta: "¿Y la 4T?"
-  respuesta: '<p class="libertad-thin">
+  respuesta: '<p class="libertad-thin fs-4">
 Todo sigue igual y seguirá. El ruido mediático se ha 
 enfocado en los generadores renovables del esquema
 legado (anterior a la nueva Ley de la Industria Eléctrica).
 </p>
-<p class="libertad-thin">
+<p class="libertad-thin fs-4">
 El Suministro Calificado no se ha visto afectado, salvo por
 períodos más largos derivados de falta de personal en
 CRE y CENACE.
