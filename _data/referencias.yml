@@ -1,7 +1,7 @@
 ---
 lista:
-- '<a href="https://www.gob.mx/cenace" target="_blank"> Centro Nacional de Control
+- referencia: '<a href="https://www.gob.mx/cenace" target="_blank"> Centro Nacional de Control
   de Energia</a>'
-- '<a href="https://www.gob.mx/cenace/articulos/sistema-de-informacion-de-mercado-sim-195030?idiom=es"
+- referencia: '<a href="https://www.gob.mx/cenace/articulos/sistema-de-informacion-de-mercado-sim-195030?idiom=es"
   target="_blank"> Sistema de Información de Mercado (SIM)</a>'
-- '<a href="https://www.gob.mx/cre" target="_blank"> Comisión reguladora de Energía</a>'
+- referencia: '<a href="https://www.gob.mx/cre" target="_blank"> Comisión reguladora de Energía</a>'
